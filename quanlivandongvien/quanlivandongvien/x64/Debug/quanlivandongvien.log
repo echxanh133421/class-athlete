@@ -1,0 +1,4 @@
+﻿  quanlivandongvien.cpp
+E:\file c++\quanlivandongvien\quanlivandongvien\quanlivandongvien.cpp(124,57): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\file c++\quanlivandongvien\quanlivandongvien\quanlivandongvien.cpp(93): warning C4715: 'operator>': not all control paths return a value
+  quanlivandongvien.vcxproj -> E:\file c++\quanlivandongvien\x64\Debug\quanlivandongvien.exe
