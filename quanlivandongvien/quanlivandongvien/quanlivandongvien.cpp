@@ -138,6 +138,7 @@ int main()
 	cout << "danh sach van dong vien sau khi sap xep:" << endl;
 	sort(p, n);
 	out(p, n);
+	delete[] p;
 	system("pause");
 	return 0;
 }
