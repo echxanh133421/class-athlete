@@ -139,6 +139,7 @@ int main()
 	sort(p, n);
 	out(p, n);
 	delete[] p;
+	p = NULL;
 	system("pause");
 	return 0;
 }
